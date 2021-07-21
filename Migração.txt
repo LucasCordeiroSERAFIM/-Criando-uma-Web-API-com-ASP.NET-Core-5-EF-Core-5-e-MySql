@@ -1,0 +1,11 @@
+add-migration inicial 
+update-database
+
+Pacotes Nuguet
+Microsoft.VisualStudio.Web.CodeGeneration.Design
+Pomelo.EntityFrameworkCore.MySql
+Swashbuckle.AspNetCore
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+"Microsoft.EntityFrameworkCore.Design
+Microsoft.EntityFrameworkCore
